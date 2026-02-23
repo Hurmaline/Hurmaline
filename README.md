@@ -3,7 +3,7 @@
 
 - I'm based in Lancaster/London
 - You can contact me at [nik2004kh@gmail.com](mailto:nik2004kh@gmail.com)
-- Languages: Python, Java, C, C++, GDScript, SQL
+- Languages: Python, Java, JavaScript, React, C, C++, GDScript, SQL
 - Tools: Git, MongoDB, MATLAB, Godot Engine, Assembly, Swing/JavaFX, Wireshark  
 
 
